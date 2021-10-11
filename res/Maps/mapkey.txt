@@ -1,0 +1,6 @@
+gb1 = 0
+gb2 = 1
+gb3 = 2
+db1 = 3
+rock = 8
+tree = 9
